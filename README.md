@@ -75,24 +75,28 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Python,
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/Repositórios-261-blue?style=for-the-badge&logo=github&logoColor=white)
-![Contributions](https://img.shields.io/badge/Contribuições_2026-18721-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contribuições_2026-18.721-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/badge/Seguidores-5-orange?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=star&logoColor=white)
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ClaudioSS01&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" width="500"/>
+> 📈 Veja todo o histórico de contribuições no meu [perfil do GitHub](https://github.com/ClaudioSS01)
 
 </div>
 
 ---
 
-## 🏆 Conquistas
+## 🏆 Principais Projetos
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ClaudioSS01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![portuguese-Bertimbau](https://img.shields.io/badge/portuguese--Bertimbau-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ClaudioSS01/portuguese-Bertimbau)
+[![cool_python_apps](https://img.shields.io/badge/cool__python__apps-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ClaudioSS01/cool_python_apps)
+[![face-api.js](https://img.shields.io/badge/face--api.js-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ClaudioSS01/face-api.js)
+[![starter-express-api](https://img.shields.io/badge/starter--express--api-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/ClaudioSS01/starter-express-api)
 
 </div>
 
