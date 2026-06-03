@@ -74,11 +74,14 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Python,
 
 <div align="center">
 
-![Claudio GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioSS01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioSS01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSS01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSS01&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClaudioSS01&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ClaudioSS01&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
 
 </div>
 
@@ -88,7 +91,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Python,
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ClaudioSS01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ClaudioSS01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
