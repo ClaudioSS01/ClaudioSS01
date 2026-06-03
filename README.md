@@ -74,24 +74,15 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Python,
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Repositórios-261-blue?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=star)
-![Contributions](https://img.shields.io/badge/Contribuições%202026-18721-green?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Seguidores-5-orange?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Repositórios-261-blue?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contribuições_2026-18721-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Seguidores-5-orange?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioSS01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ClaudioSS01)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSS01&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ClaudioSS01)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ClaudioSS01&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=ClaudioSS01&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" width="500"/>
 
 </div>
 
