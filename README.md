@@ -74,14 +74,14 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Python,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioSS01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSS01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioSS01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSS01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ClaudioSS01&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+<img width="500" src="https://streak-stats.demolab.com/?user=ClaudioSS01&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
