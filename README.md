@@ -1,16 +1,103 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ClaudioSS01/ClaudioSS01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou Claudio Santos 👋
 
-Here are some ideas to get you started:
+### Desenvolvedor Full Stack | Python | JavaScript | IA & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-santos-da-silva-programador)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/claudio-programador/in%C3%ADcio)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511917839107)
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Python, JavaScript e Inteligência Artificial. Tenho experiência em desenvolvimento web full stack e estou sempre buscando novos desafios e aprendizados.
+
+- 🔭 Atualmente trabalhando em projetos de desenvolvimento web e IA
+- 🌱 Sempre aprendendo novas tecnologias e metodologias
+- 💡 Interesse em: Web Development, Python, JavaScript, IA Generativa, Machine Learning
+- 📫 Entre em contato: [WhatsApp](https://wa.me/5511917839107)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+</div>
+
+---
+
+## 📜 Certificados e Formações
+
+| Certificado | Instituição | Área |
+|---|---|---|
+| 🤖 Arduino e Robótica | SENAI | Hardware / IoT |
+| 🐍 Python 3 - Mundo 1 (40h) | Curso em Vídeo | Python |
+| 🐘 PHP Básico (40h) | Curso em Vídeo | PHP |
+| 🗄️ MySQL (40h) | Curso em Vídeo | Banco de Dados |
+| 🌐 JavaScript | Zenva | JavaScript |
+| 🐍 Python - Fundamentos para Análise de Dados | DIO | Python / Data Science |
+| 🎓 CS50 - Introdução à Ciência da Computação | Harvard | Ciência da Computação |
+| ☁️ AWS Course Completion | Amazon Web Services | Cloud Computing |
+| 🤖 Inteligência Artificial - Fundamentos | DIO | IA |
+| 🧠 Fundamentos de Inteligência Artificial | DIO | IA |
+| 🤖 Construtor de Chatbot - Iniciante | DIO | IA / Chatbot |
+| 💬 Chatbot com Blip | DIO | IA / Chatbot |
+| ✨ Gemini - Google | Alura | IA Generativa |
+| 📊 IA Generativa em Marketing | USP Digital | IA Generativa |
+| ⚖️ Ética na Inteligência Artificial | SENAI | IA |
+| 🔐 SCRUM | - | Metodologia Ágil |
+| 📱 Jogos para Dispositivos Móveis | - | Mobile |
+| 💻 Programação de Computadores | - | Programação |
+| 🌍 Ambientes Virtuais na Educação | - | EAD / Tecnologia |
+| 🔀 Git e GitHub | - | Controle de Versão |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Claudio GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioSS01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSS01&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClaudioSS01&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ClaudioSS01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Se você gostou dos meus projetos, deixe uma estrela! ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=ClaudioSS01&color=blue&style=flat-square&label=Visitas+ao+Perfil)
+
+</div>
