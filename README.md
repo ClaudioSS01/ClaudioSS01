@@ -74,14 +74,24 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em Python,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioSS01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSS01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+![Repos](https://img.shields.io/badge/Repositórios-261-blue?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=star)
+![Contributions](https://img.shields.io/badge/Contribuições%202026-18721-green?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Seguidores-5-orange?style=for-the-badge&logo=github)
 
 </div>
 
 <div align="center">
 
-<img width="500" src="https://streak-stats.demolab.com/?user=ClaudioSS01&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioSS01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ClaudioSS01)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSS01&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ClaudioSS01)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ClaudioSS01&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
